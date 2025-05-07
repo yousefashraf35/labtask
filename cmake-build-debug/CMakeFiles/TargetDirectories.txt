@@ -1,0 +1,3 @@
+D:/FCAI-CU/YEAR 2/semster 2/CS251-Winter2023-2nd-Lab10-UsingGit/cmake-build-debug/CMakeFiles/CS251_Winter2023_2nd_Lab10_UsingGit.dir
+D:/FCAI-CU/YEAR 2/semster 2/CS251-Winter2023-2nd-Lab10-UsingGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FCAI-CU/YEAR 2/semster 2/CS251-Winter2023-2nd-Lab10-UsingGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

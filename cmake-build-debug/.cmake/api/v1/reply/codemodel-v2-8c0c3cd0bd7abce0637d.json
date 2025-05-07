@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS251_Winter2023_2nd_Lab10_UsingGit",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CS251_Winter2023_2nd_Lab10_UsingGit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS251_Winter2023_2nd_Lab10_UsingGit-Debug-1be07021570efcd67945.json",
+					"name" : "CS251_Winter2023_2nd_Lab10_UsingGit",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/FCAI-CU/YEAR 2/semster 2/CS251-Winter2023-2nd-Lab10-UsingGit/cmake-build-debug",
+		"source" : "D:/FCAI-CU/YEAR 2/semster 2/CS251-Winter2023-2nd-Lab10-UsingGit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
